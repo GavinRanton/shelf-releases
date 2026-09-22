@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shelf</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 22 Sep 2026 12:29:12 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/GavinRanton/shelf-releases/releases/download/v1.0.0/Shelf-1.0.0.dmg" length="8395692" type="application/octet-stream" sparkle:edSignature="1eYeZ6k2kVVkDH+ih+nTSAXNcNDwg4A953xw/0qhSoIPqeDgMEgCkQQXK4WCnhPZ07+i8XBZcPyJFEzuxgnRDA=="/>
+        </item>
+    </channel>
+</rss>
