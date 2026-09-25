@@ -6,6 +6,8 @@ of them back with a keystroke.
 
 **[Download the latest version](https://github.com/GavinRanton/shelf-releases/releases/latest)**
 
+New to it? **[Read the guide](GUIDE.md)** — install, the one shortcut that matters, and the first five minutes.
+
 Requires macOS 14 Sonoma or later. Apple silicon and Intel.
 
 ---
